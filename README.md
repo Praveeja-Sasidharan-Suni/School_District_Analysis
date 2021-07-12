@@ -1,10 +1,7 @@
 # School District Analysis
 
 ## Project Overview
-### The purpose of this project is to analyze the data of an entire School District based on some subjects such as Maths and Reading, funding,school types and student grades.The file 
-shows evidence of academic dishonesty in reading and math grades for Thomas High School ninth graders.So we need to replace the math and reading scores for Thomas High School with NaNs
-while keeping the rest of the data intact. Once we have replaced the math and reading scores,we have to repeat the school district analysis and write up a report to describe
-how these changes affected the overall analysis.
+*The purpose of this project is to analyze the data of an entire School District based on some subjects such as Maths and Reading, funding,school types and student grades.The file shows evidence of academic dishonesty in reading and math grades for Thomas High School ninth graders.So we need to replace the math and reading scores for Thomas High School with NaNs ,while keeping the rest of the data intact. Once we have replaced the math and reading scores,we should repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.*
 
 ## Resources
 **Resources:** All data used in this analysis is found inside (https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/tree/main/Resources) folder.
@@ -35,7 +32,8 @@ Due to potential academic dishonesty by the ninth grade students of Thomas High 
   - The overall passing percentages of Thomas High School decreased by 0.11%
   - The average scores of Thomas High School for math and reading *increased* by 0.06
   - For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
-  - **School rankings are unchanged.** Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
+  - *School rankings are unchanged.* Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
+  
 3.*The top 5 performing schools, based on the overall passing rate*
 
 ![top_five_schools](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/top_five_schools.PNG?raw=true)
