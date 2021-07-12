@@ -4,7 +4,7 @@
 *The purpose of this project is to analyze the data of an entire School District based on some subjects such as Maths and Reading, funding,school types and student grades.The file shows evidence of academic dishonesty in reading and math grades for Thomas High School ninth graders.So we need to replace the math and reading scores for Thomas High School with NaNs ,while keeping the rest of the data intact. Once we have replaced the math and reading scores,we should repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.*
 
 ## Resources
-**Resources:** All data used in this analysis is found inside 
+**Resources:** All data used in this analysis is found inside
 (https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/tree/main/Resources) folder.
 
 **Software:** Python 3.7, Anaconda, Jupyter Notebook
