@@ -20,10 +20,10 @@ Due to potential academic dishonesty by the ninth grade students of Thomas High 
 ![deliverable1](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/deliverable1.PNG?raw=true)
 
 ### Deliverable 2
-1.The School summary after replacing the ninth graders' scores with NaNs.
+1. *The School summary after replacing the ninth graders' scores with NaNs.*
 ![updated_school_summary](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/updated_school_summary.PNG?raw=true)
 
-2.The District summary after replacing the ninth graders' scores with NaNs.
+2.*The District summary after replacing the ninth graders' scores with NaNs.*
 ![updated_dist_summary](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/updated_dist_summary.PNG?raw=true)
 
 - Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School:
@@ -36,40 +36,40 @@ Due to potential academic dishonesty by the ninth grade students of Thomas High 
   - The average scores of Thomas High School for math and reading *increased* by 0.06
   - For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
   - **School rankings are unchanged.** Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
-3.The top 5 performing schools, based on the overall passing rate
+3.*The top 5 performing schools, based on the overall passing rate*
 
 ![top_five_schools](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/top_five_schools.PNG?raw=true)
 
-4.The bottom 5 performing schools, based on the overall passing rate
+4.*The bottom 5 performing schools, based on the overall passing rate*
 
 ![bottom_five_schools](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/bottom_five_schools.PNG?raw=true)
 
-5.The average math score for each grade level from each school 
+5.*The average math score for each grade level from each school* 
 
 
 ![math_grade_level](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/math_grade_level.PNG?raw=true)
 
-6.The average reading score for each grade level from each school
+6.*The average reading score for each grade level from each school*
 
 ![reading_grade_level](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/reading_grade_level.PNG?raw=true)
 
-### Average Scores by Grade Level
+##### Average Scores by Grade Level
 After analyzing the average scores for math and reading by grade levels for each school, it is found that a students grade level does not affect their scores as much as the school that they
  attend. The average scores within each school only varries by 1-2% depending on grade level. However, the difference in scores is more apparent when comparing different schools. 
 
 
-7.The scores by school spending per student 
+7.*The scores by school spending per student* 
 
-### The Effects of School Budget and School Size
+##### The Effects of School Budget and School Size
 
 It is found that Average Scores and Passing Percentages do not increase as spending per student increases. In fact, the top performing school in the entire school district 
 (Cabera High School) received $68 *less* per student than the lowest performing school (Johnson High School). This implies that there are more relevant factors than funding 
 that decide average student scores.
 
-![scores_by_schools_spending](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/scores_by_schools_spending.PNG?raw=true
+![scores_by_schools_spending](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/scores_by_schools_spending.PNG?raw=true)
 
 
-8.The scores by school size
+8. *The scores by school size*
 
 When considering School Sizes, "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages. The difference in performance between "Small" and "Medium" Size
 Schools is negligible (approximately 1%). Interestingly, all District schools in this dataset are characterized as "Large" schools. This may be an indication that students in this district
@@ -78,9 +78,9 @@ learn and perform better in smaller, more intimate settings.
  
 ![scores_by_school_size](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/scores_by_school_size.PNG?raw=true)
 
-9.The scores by school type
+9. *The scores by school type*
 
-### Charter vs. District Schools
+#### Charter vs. District Schools
 Charter schools generally performed better than District schools in this analysis. The top five schools with the highest overall passing percentages are all Charter schools, 
 whereas the bottom five are all District Schools. Charter schools in this dataset were typically characterized as "Small" and "Medium" size schools. 
 As seen in the DataFrame below, **Charter schools have a 36% higher overall passing percentage** than District schools.
