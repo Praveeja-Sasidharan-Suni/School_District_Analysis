@@ -22,14 +22,15 @@ Due to potential academic dishonesty by the ninth grade students of Thomas High 
 
 ![updated_school_summary](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/updated_school_summary.PNG?raw=true)
 
-2.*The District summary after replacing the ninth graders' scores with NaNs.*
-
-![updated_dist_summary](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/updated_dist_summary.PNG?raw=true)
-
 - Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School:
   - The overall passing percentage for Thomas High School fell to 65%
   - The overall passing percentage for the entire district fell to 64.9%
   
+
+2.*The District summary after replacing the ninth graders' scores with NaNs.*
+
+![updated_dist_summary](https://github.com/Praveeja-Sasidharan-Suni/School_District_Analysis/blob/main/Images/updated_dist_summary.PNG?raw=true)
+
 
 - When the ninth graders' of Thomas High School had their scores omitted from the calculations, the following changes occured:
   - The overall passing percentages of Thomas High School decreased by 0.11%
